@@ -33,14 +33,14 @@
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"> 
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"> 
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Objective-C_Logo.png" alt="Objective-C"> 
+  <img src="https://img.icons8.com/ios-filled/50/000000/objective-c.png" alt="Objective-C" width="48" height="48"> 
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"> 
   <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#"> 
   <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP"> 
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML"> 
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"> 
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="48" height="48">
 </p>
 
 ## 🌟 Projects
