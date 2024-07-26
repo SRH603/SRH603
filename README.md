@@ -33,14 +33,14 @@
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"> 
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"> 
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"> 
-  <img src="[https://img.icons8.com/color/48/000000/objective-c.png](https://www.codeconvert.ai/lang_logos/objc.svg)" alt="Objective-C"> 
+  <img src="https://www.codeconvert.ai/lang_logos/objc.svg" alt="Objective-C"> 
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"> 
   <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#"> 
   <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP"> 
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML"> 
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"> 
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"> 
-  <img src="[https://img.icons8.com/color/48/000000/matlab.png](https://www.codeconvert.ai/lang_logos/matlab.svg)" alt="MATLAB">
+  <img src="https://www.codeconvert.ai/lang_logos/matlab.svg" alt="MATLAB">
 </p>
 
 ## 🌟 Projects
