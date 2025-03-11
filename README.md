@@ -8,11 +8,7 @@
   <img src="https://img.shields.io/github/watchers/yourusername/yourrepo?label=Watch%20Me&style=social" alt="GitHub Watchers">
 </p>
 
-**## Hi there 👋
-
-**SRH603/SRH603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-**Here are some ideas to get you started:
+## **Hi there** 👋
 
 # About Me
 
@@ -25,7 +21,7 @@
 - 😄 Pronouns: Pronunciation of the alphabet letters.
 - ⚡ Fun fact: None for now.
 
-**Hello! I'm **[Your Name]**, a passionate software developer with expertise in multiple programming languages and technologies.
+**Hello! I'm **SRH603**, a passionate software developer with expertise in multiple programming languages and technologies.
 
 ## 🔧 Skills & Technologies
 
@@ -33,7 +29,6 @@
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"> 
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"> 
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"> 
-  <img src="https://img.icons8.com/ios-filled/50/000000/objective-c.png" alt="Objective-C" width="48" height="48"> 
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"> 
   <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#"> 
   <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP"> 
@@ -57,21 +52,21 @@ A brief description of Project 3. Discuss the challenges faced and how they were
 ## 📫 Contact Me
 
 <p align="center">
-  <a href="https://yourwebsite.com"><img src="https://img.icons8.com/fluency/48/000000/domain.png" alt="Website"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.icons8.com/color/48/000000/email.png" alt="Email"></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"></a>
-  <a href="https://twitter.com/YourTwitterHandle"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter"></a>
-  <a href="https://t.me/YourTelegramUsername"><img src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="Telegram"></a>
-  <a href="https://discord.com/users/YourDiscordUsername#1234"><img src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="Discord"></a>
-  <a href="https://instagram.com/YourInstagramHandle"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram"></a>
+  <a href="https://athmyx.com"><img src="https://img.icons8.com/fluency/48/000000/domain.png" alt="Website"></a>
+  <a href="athmyx@gmail.com"><img src="https://img.icons8.com/color/48/000000/email.png" alt="Email"></a>
+  <a href="https://linkedin.com/athmyx"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"></a>
+  <a href="https://twitter.com/athmyx_"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter"></a>
+  <a href="https://t.me/Athmyx"><img src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="Telegram"></a>
+  <a href="https://discord.com/users/Athmyx"><img src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="Discord"></a>
+  <a href="https://instagram.com/Athmyx"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram"></a>
   <a href="https://im.qq.com/"><img src="https://img.icons8.com/color/48/000000/qq.png" alt="QQ"></a>
-  <a href="https://weibo.com/YourWeiboHandle"><img src="https://img.icons8.com/color/48/000000/weibo.png" alt="Weibo"></a>
-  <a href="https://tiktok.com/@YourTikTokHandle"><img src="https://img.icons8.com/color/48/000000/tiktok.png" alt="TikTok"></a>
-  <a href="https://youtube.com/channel/YourChannelID"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube"></a>
-  <a href="https://space.bilibili.com/YourBilibiliID"><img src="https://img.icons8.com/color/48/000000/bilibili.png" alt="Bilibili"></a>
-  <a href="https://snapchat.com/add/YourSnapchatUsername"><img src="https://img.icons8.com/color/48/000000/snapchat.png" alt="Snapchat"></a>
-  <a href="https://wa.me/YourWhatsAppNumber"><img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp"></a>
-  <a href="https://facebook.com/YourFacebookProfile"><img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook"></a>
+  <a href="https://weibo.com/Athmyx"><img src="https://img.icons8.com/color/48/000000/weibo.png" alt="Weibo"></a>
+  <a href="https://tiktok.com/@Athmyx"><img src="https://img.icons8.com/color/48/000000/tiktok.png" alt="TikTok"></a>
+  <a href="https://youtube.com/channel/@athmyx"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube"></a>
+  <a href="https://space.bilibili.com/552304031"><img src="https://img.icons8.com/color/48/000000/bilibili.png" alt="Bilibili"></a>
+  <a href="https://snapchat.com/add/athmyx"><img src="https://img.icons8.com/color/48/000000/snapchat.png" alt="Snapchat"></a>
+  <a href="https://wa.me/athmyx"><img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp"></a>
+  <a href="https://facebook.com/athmyx"><img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook"></a>
 </p>
 
 Feel free to reach out if you're interested in collaboration, have questions, or just want to connect!
