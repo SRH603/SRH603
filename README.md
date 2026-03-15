@@ -25,7 +25,7 @@
 
 ---
 
-<img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRH603&layout=donut-vertical&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" />
+<img align="right" width="300" src="https://github-readme-stats-virid-eight-78.vercel.app/api/top-langs/?username=SRH603&layout=donut-vertical&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" />
 
 ## About Me
 
@@ -73,7 +73,7 @@ A student who codes across the full spectrum — from **game dev** and **full-st
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SRH603&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats-virid-eight-78.vercel.app/api?username=SRH603&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&count_private=true&include_all_commits=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=SRH603&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
 
 <br><br>
