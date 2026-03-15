@@ -52,9 +52,9 @@ status: "Always learning, always building"
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=00ff41)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=00ff41)
 ![HTML](https://img.shields.io/badge/HTML-0d1117?style=flat-square&logo=html5&logoColor=00ff41)
-![CSS](https://img.shields.io/badge/CSS-0d1117?style=flat-square&logo=css3&logoColor=00ff41)
+![CSS](https://img.shields.io/badge/CSS-0d1117?style=flat-square&logo=css&logoColor=00ff41)
 ![PHP](https://img.shields.io/badge/PHP-0d1117?style=flat-square&logo=php&logoColor=00ff41)
-![MATLAB](https://img.shields.io/badge/MATLAB-0d1117?style=flat-square&logo=mathworks&logoColor=00ff41)
+![MATLAB](https://img.shields.io/badge/MATLAB-0d1117?style=flat-square&logo=matlab&logoColor=00ff41)
 
 ### `[ FRAMEWORKS & TOOLS ]`
 
