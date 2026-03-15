@@ -17,7 +17,7 @@
 
 <br>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=SRH603&color=66ff66&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/SRH603)
+[![Profile Views](https://komarev.com/ghpvc/?username=SRH603&color=66ff66&style=for-the-badge&labelColor=0d1117&label=PROFILE+VIEWS)](https://github.com/SRH603)
 [![GitHub followers](https://img.shields.io/github/followers/SRH603?style=for-the-badge&color=66ff66&labelColor=0d1117&logo=github)](https://github.com/SRH603)
 [![GitHub Stars](https://img.shields.io/github/stars/SRH603?style=for-the-badge&color=66ff66&labelColor=0d1117&logo=github)](https://github.com/SRH603)
 
