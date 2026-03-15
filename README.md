@@ -78,7 +78,7 @@ A student who codes across the full spectrum — from **game dev** and **full-st
 
 <br><br>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=SRH603&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff4133&hide_border=true" />
+<img width="98%" src="https://github-readme-activity-graph-ecru.vercel.app/graph?username=SRH603&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff4133&hide_border=true" />
 
 <br><br>
 
