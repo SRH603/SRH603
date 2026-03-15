@@ -36,7 +36,7 @@ website: athmyx.com
 status: "Always learning, always building"
 ```
 
-A student who codes across the full spectrum — from **game dev** and **full-stack web** to **systems programming** and **AI/ML**. Curious about everything, committed to shipping.
+**Omg!!!!** Someone just visited my page?? That is literally so cool lol. So nice to meet you! I also make music (Visit my [music page](www.athmyx.com/projects/music)!). Currently studying Computer Science at a certain college. Feel free to contact me
 
 <div align="center">
 
