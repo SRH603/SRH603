@@ -33,7 +33,7 @@
 name: Athmyx
 role: Student / Developer
 website: athmyx.com
-status: "Always learning, always building"
+status: "Always learning"
 ```
 
 **Omg!!!!** Someone just visited my page?? That is literally so cool lol. So nice to meet you! I also make music (Visit my [music page](https://www.athmyx.com/projects/music)!). Currently studying Computer Science at a certain college. Feel free to contact me
@@ -86,11 +86,11 @@ status: "Always learning, always building"
 
 ## Current Projects
 
-```
-[■■■■■■■■  ] 80%  Indie Game Dev
-[■■        ] 20%  Reverse Eng?
-[          ] ??%  ???
-```
+
+> [■■■■■■■■  ] 80%  Indie Game Dev
+> [■■        ] 20%  Reverse Eng?
+> [          ] ??%  ???
+
 
 ---
 
