@@ -87,10 +87,8 @@ status: "Always learning"
 ## Current Projects
 
 
-> [■■■■■■■■  ] 80%  Indie Game Dev
-<br>
-> [■■        ] 20%  Reverse Eng?
-<br>
+> [■■■■■■■■  ] 80%  Indie Game Dev  
+> [■■        ] 20%  Reverse Eng?  
 > [          ] ??%  ???
 
 
