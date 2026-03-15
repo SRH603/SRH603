@@ -3,18 +3,19 @@
 <!-- HEADER: Cyberpunk Glitch Banner -->
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║  ░██████╗██████╗░██╗░░██╗░█████╗░░█████╗░██████╗░              ║
-║  ██╔════╝██╔══██╗██║░░██║██╔══██╗██╔══██╗╚════██╗              ║
-║  ╚█████╗░██████╔╝███████║██║░░██║██║░░██║░█████╔╝              ║
-║  ░╚═══██╗██╔══██╗██╔══██║██║░░██║██║░░██║░╚═══██╗              ║
-║  ██████╔╝██║░░██║██║░░██║╚█████╔╝╚█████╔╝██████╔╝              ║
-║  ╚═════╝░╚═╝░░╚═╝╚═╝░░╚═╝░╚════╝░░╚════╝░╚═════╝░              ║
+║                                                                  ║
+║     █████╗ ████████╗██╗░░██╗███╗░░░███╗██╗░░░██╗██╗░░██╗        ║
+║    ██╔══██╗╚══██╔══╝██║░░██║████╗░████║╚██╗░██╔╝╚██╗██╔╝        ║
+║    ███████║░░░██║░░░███████║██╔████╔██║░╚████╔╝░░╚███╔╝░        ║
+║    ██╔══██║░░░██║░░░██╔══██║██║╚██╔╝██║░░╚██╔╝░░░██╔██╗░        ║
+║    ██║░░██║░░░██║░░░██║░░██║██║░╚═╝░██║░░░██║░░░██╔╝╚██╗        ║
+║    ╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝╚═╝░░░░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝        ║
 ║                                                                  ║
 ║           [ SYSTEM ONLINE ] > connecting to mainframe...         ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%3E+Hello%2C+World.+I+am+SRH603;%3E+Student+%2F+Developer+%2F+Builder" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%3E+Hello%2C+World.+I+am+Athmyx;%3E+Student+%2F+Developer+%2F+Builder" alt="Typing SVG" />
 
 <br>
 
@@ -31,7 +32,7 @@
 ## `> whoami`
 
 ```yaml
-name: SRH603
+name: Athmyx
 role: Student / Full-Stack Developer
 location: Planet Earth
 status: "Building things that matter"
@@ -112,7 +113,7 @@ status: "Building things that matter"
 ## `> netstat -connect`
 
 [![Email](https://img.shields.io/badge/athmyx@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff41)](mailto:athmyx@gmail.com)
-[![GitHub](https://img.shields.io/badge/SRH603-0d1117?style=for-the-badge&logo=github&logoColor=00ff41)](https://github.com/SRH603)
+[![GitHub](https://img.shields.io/badge/Athmyx-0d1117?style=for-the-badge&logo=github&logoColor=00ff41)](https://github.com/SRH603)
 
 ---
 
