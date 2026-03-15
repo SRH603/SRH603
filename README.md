@@ -87,10 +87,9 @@ status: "Always learning, always building"
 ## Current Projects
 
 ```
-[■■■■■■■■░░] 80%  Indie Game Dev    — rhythm game & VR puzzle game
-[■■■■■░░░░░] 50%  Reverse Eng       — binary analysis & exploit research
-[■■■■■■░░░░] 60%  Web Projects      — full-stack applications
-[■■■■░░░░░░] 40%  AI/ML Exploration — data science & model training
+[■■■■■■■■  ] 80%  Indie Game Dev
+[■■        ] 20%  Reverse Eng?
+[          ] ??%  ???
 ```
 
 ---
