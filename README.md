@@ -25,7 +25,7 @@
 
 ---
 
-<img align="right" width="300" src="https://github-readme-stats-virid-eight-78.vercel.app/api/top-langs/?username=SRH603&layout=donut-vertical&langs_count=20&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" />
+<img align="right" width="300" src="https://github-readme-stats-virid-eight-78.vercel.app/api/top-langs/?username=SRH603&layout=donut-vertical&langs_count=20&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&cache_seconds=1800" />
 
 ## About Me
 
